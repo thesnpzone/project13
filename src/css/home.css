@@ -1,0 +1,150 @@
+.section1 {
+    background: linear-gradient(0deg, rgba(11, 12, 16, 0.918), rgba(11, 12, 16, 0.918)), url("../images/bg/bg2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.color {
+    color: #ffffff;
+}
+
+.size {
+    font-size: 60px;
+    font-family: 'Fraunces', serif;
+}
+
+.headText {
+    font-family: 'Vampiro One', cursive;
+    font-size: 10rem;
+    background: -webkit-linear-gradient(#66fcf1, #1f2833);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: myanimation 5s infinite ease-in;
+    -webkit-animation: myanimation 5s infinite ease-in;
+}
+
+@keyframes myanimation {
+    0% {
+        font-family: 'Vampiro One', cursive;
+        font-size: 10rem !important;
+    }
+    10% {
+        font-family: 'Fraunces', serif;
+        font-size: 10rem !important;
+    }
+    20% {
+        font-family: 'Architects Daughter', cursive;
+        font-size: 10rem !important;
+    }
+    30% {
+        font-family: 'Dancing Script', cursive;
+        font-size: 10rem !important;
+    }
+    40% {
+        font-family: 'Epilogue', sans-serif;
+        font-size: 10rem !important;
+    }
+    60% {
+        font-family: 'Old Standard TT', serif;
+        font-size: 10rem !important;
+    }
+    70% {
+        font-family: 'Oswald', sans-serif;
+        font-size: 10rem !important;
+    }
+    80% {
+        font-family: 'Pacifico', cursive;
+        font-size: 10rem !important;
+    }
+    90% {
+        font-family: 'Fraunces', serif;
+        font-size: 10rem !important;
+    }
+    100% {
+        font-family: 'Vampiro One', cursive;
+        font-size: 10rem !important;
+    }
+}
+
+.draw-border {
+    box-shadow: inset 0 0 0 4px #58afd1;
+    color: #58afd1;
+    transition: color 0.25s 0.0833333333s;
+    position: relative;
+}
+
+.draw-border::before,
+.draw-border::after {
+    border: 0 solid transparent;
+    box-sizing: border-box;
+    content: '';
+    pointer-events: none;
+    position: absolute;
+    width: 0;
+    height: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.draw-border::before {
+    border-bottom-width: 4px;
+    border-left-width: 4px;
+}
+
+.draw-border::after {
+    border-top-width: 4px;
+    border-right-width: 4px;
+}
+
+.draw-border:hover {
+    color: #ffe593;
+}
+
+.draw-border:hover::before,
+.draw-border:hover::after {
+    border-color: #ffe593;
+    transition: border-color 0s, width 0.25s, height 0.25s;
+    width: 100%;
+    height: 100%;
+}
+
+.draw-border:hover::before {
+    transition-delay: 0s, 0s, 0.25s;
+}
+
+.draw-border:hover::after {
+    transition-delay: 0s, 0.25s, 0s;
+}
+
+.btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    line-height: 1.5;
+    font: 700 1.2rem 'Roboto Slab', sans-serif;
+    padding: 1em;
+    letter-spacing: 0.05rem;
+}
+
+.btn:focus {
+    outline: 2px dotted #55d7dc;
+}
+
+.div {
+    -webkit-transform: rotate( -90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate( -90deg);
+}
+
+
+/* font font family  */
+
+
+/*
+ font-family: 'Audiowide', cursive; //para
+font-family: 'Fraunces', serif;  // heading
+font-family: 'Vampiro One', cursive;
+ */
