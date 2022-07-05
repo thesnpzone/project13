@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/project13/static/css/main.945145f9.chunk.css",
+    "main.js": "/project13/static/js/main.d6e8c2dd.chunk.js",
+    "main.js.map": "/project13/static/js/main.d6e8c2dd.chunk.js.map",
+    "runtime-main.js": "/project13/static/js/runtime-main.57ed4f6c.js",
+    "runtime-main.js.map": "/project13/static/js/runtime-main.57ed4f6c.js.map",
+    "static/css/2.7bd33741.chunk.css": "/project13/static/css/2.7bd33741.chunk.css",
+    "static/js/2.d3cbea32.chunk.js": "/project13/static/js/2.d3cbea32.chunk.js",
+    "static/js/2.d3cbea32.chunk.js.map": "/project13/static/js/2.d3cbea32.chunk.js.map",
+    "static/js/3.42be037e.chunk.js": "/project13/static/js/3.42be037e.chunk.js",
+    "static/js/3.42be037e.chunk.js.map": "/project13/static/js/3.42be037e.chunk.js.map",
+    "index.html": "/project13/index.html",
+    "static/css/2.7bd33741.chunk.css.map": "/project13/static/css/2.7bd33741.chunk.css.map",
+    "static/css/main.945145f9.chunk.css.map": "/project13/static/css/main.945145f9.chunk.css.map",
+    "static/js/2.d3cbea32.chunk.js.LICENSE.txt": "/project13/static/js/2.d3cbea32.chunk.js.LICENSE.txt",
+    "static/media/1.aed58a44.png": "/project13/static/media/1.aed58a44.png",
+    "static/media/10.6b66337e.png": "/project13/static/media/10.6b66337e.png",
+    "static/media/11.ca9f624c.png": "/project13/static/media/11.ca9f624c.png",
+    "static/media/12.d0e42f23.png": "/project13/static/media/12.d0e42f23.png",
+    "static/media/13.b361d2ea.png": "/project13/static/media/13.b361d2ea.png",
+    "static/media/14.a93b5afa.png": "/project13/static/media/14.a93b5afa.png",
+    "static/media/2.0ae9fe03.png": "/project13/static/media/2.0ae9fe03.png",
+    "static/media/3.40c3d8b1.png": "/project13/static/media/3.40c3d8b1.png",
+    "static/media/service.css": "/project13/static/media/4.aaeb091a.png",
+    "static/media/6.7faeb73b.png": "/project13/static/media/6.7faeb73b.png",
+    "static/media/7.70b426c0.png": "/project13/static/media/7.70b426c0.png",
+    "static/media/8.a3c26d5d.png": "/project13/static/media/8.a3c26d5d.png",
+    "static/media/9.842d2cdb.png": "/project13/static/media/9.842d2cdb.png",
+    "static/media/home.css": "/project13/static/media/bg2.62ad5ca0.png",
+    "static/media/contact.css": "/project13/static/media/bg3.a669a6ce.png",
+    "static/media/App.css": "/project13/static/media/bg4.963a0032.png",
+    "static/media/aboutus.css": "/project13/static/media/max-larochelle-QzP1GcDOSC8-unsplash.ef7715ec.jpg",
+    "static/media/styles.css": "/project13/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57ed4f6c.js",
+    "static/css/2.7bd33741.chunk.css",
+    "static/js/2.d3cbea32.chunk.js",
+    "static/css/main.945145f9.chunk.css",
+    "static/js/main.d6e8c2dd.chunk.js"
+  ]
+}
